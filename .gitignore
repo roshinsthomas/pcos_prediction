@@ -1,0 +1,18 @@
+# Colab & Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Model Files (Keep GitHub lightweight)
+*.csv
+*.xlsx
+*.h5
+*.keras
+*.pkl
+
+# OS & System Files
+.DS_Store
+Thumbs.db
